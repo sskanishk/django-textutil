@@ -1,0 +1,24 @@
+flow of django working
+    - django open
+    - check url.py
+    - as per path goes to that file
+    - and return the function
+
+pipeline - which thing should be where and how to setup
+    
+
+to run server 
+python manage.py runserver
+
+for templates:
+go to settings and change the DIRS with templates.
+
+acessing dictinary in templates from function.
+
+
+Post Request message body me additional data bhejta hai
+large data in url is issue
+
+CSRF - django keeps it in mind.
+cros site Request 
+token
